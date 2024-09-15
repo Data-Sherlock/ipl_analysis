@@ -16,7 +16,8 @@ Wicket Takers Extraordinaire: Recognize the bowlers with the most wickets claime
 Average Aces: Find the most economical bowlers with the lowest bowling average (min 60 balls bowled per season).
 Economy Experts: Identify the most frugal bowlers with the best economy rate (min 60 balls bowled per season).
 Dot Ball Dominators: Discover the top 5 bowlers with the highest dot ball percentage.
-Team Performance:
+Team Performance:![match](https://github.com/user-attachments/assets/dbb1bad0-7d28-46ee-9972-80ec9740a6c5)
+
 
 Winning Ways: Unmask the top 4 teams with the highest winning percentage across 3 seasons.
 Chase Masters: Reveal the top 2 teams with the most successful chases in the past 3 years.
