@@ -10,6 +10,7 @@ Average Kings: Identify the most consistent batsmen with the highest batting ave
 Strike Rate Maestros: Discover the aggressive powerhouses with the highest strike rate (min 60 balls faced per season).
 Boundary Beasts: Find the top 5 batsmen with the highest boundary percentage (fours and sixes).
 Bowlers Analysis:
+![bowl](https://github.com/user-attachments/assets/072a15aa-b52d-4f63-a32e-3e541beb0fb8)
 
 Wicket Takers Extraordinaire: Recognize the bowlers with the most wickets claimed in the last 3 years.
 Average Aces: Find the most economical bowlers with the lowest bowling average (min 60 balls bowled per season).
