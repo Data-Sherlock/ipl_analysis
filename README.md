@@ -2,7 +2,8 @@
 IPL Stats Powerhouse: Uncover Past 3 Seasons with SQL
 This repository equips you with powerful SQL queries to dissect the thrilling world of IPL for the past 3 years!  Dive into comprehensive player and team insights:
 
-Batsmen Analysis:
+Batsmen Analysis:![batting](https://github.com/user-attachments/assets/3d117d4c-cc05-4655-8e22-4f833f2bfd63)
+
 
 Top Scorers: Unearth the run machines with the most runs across 3 seasons.
 Average Kings: Identify the most consistent batsmen with the highest batting average (min 60 balls faced per season).
